@@ -37,6 +37,6 @@ Repo: `ceh-module17-mobile-labs`
 ---
 
 ## 📌 Currently
-Expanding security-focused tools and improving cryptography implementations (moving from XOR to real encryption).
+Currently working on security tooling, SOC-style lab environments, and AI-based threat detection while completing CEH labs, TryHackMe, and the Google Cybersecurity Professional Certificate.
 
 

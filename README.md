@@ -1,42 +1,77 @@
-# Muhammad Shaheem
+# Muhammad Shaheem — Aspiring SOC Analyst
 
-Cybersecurity student focused on defensive security, SOC workflows, and secure systems.
-I build tools and run controlled labs to understand how real threats are detected, analyzed, and handled.
+Cybersecurity student focused on **defensive security, SOC workflows, alert triage, and log-centric analysis**. I build tools and run controlled labs to understand how real threats are **detected, investigated, and handled** from logs to response.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Password Manager — XOR Vault (C++)
-CLI-based password manager with an encrypted vault and password generation.  
-> File handling + basic crypto concepts  
-Repo: `password-manager-xor-cpp`
+### 🔐 [password-manager-xor-cpp](https://github.com/Shaheem22/password-manager-xor-cpp)  
+**CLI Password Manager with XOR Encryption (C++)**  
+A command-line tool that stores and retrieves credentials from an encrypted vault using XOR.  
+- Menu-driven CLI for credential management  
+- Vault encryption/decryption with a user-provided key  
+- Practical file I/O and basic crypto concepts  
+> XOR is used for learning purposes, not production security.
 
 ---
 
-### 📦 Huffman + XOR File Tool (C++)
-Compresses files using Huffman coding and applies XOR encryption with a user key.  
-> Algorithms + compression + encryption pipeline  
-Repo: `file-huffman-xor-tool`
+### 📦 [file-huffman-xor-tool](https://github.com/Shaheem22/file-huffman-xor-tool)  
+**File Compression + XOR Encryption Tool (C++)**  
+Combines **Huffman coding** for compression with XOR-based encryption.  
+- Huffman tree construction and encoding/decoding  
+- Integrated encryption stage with user key  
+- Focus on algorithms, data structures, and binary processing
 
 ---
 
-### 📱 CEH Module 17 — Mobile Hacking Labs
-Documented lab evidence using Phonesploit Pro and SET in ParrotOS + Android emulator.  
-> Hands-on cybersecurity training  
-Repo: `ceh-module17-mobile-labs`
+### 📱 [ceh-module17-mobile-labs](https://github.com/Shaheem22/ceh-module17-mobile-labs)  
+**CEH Module 17 — Mobile Hacking Labs**  
+Hands-on, documented labs using ParrotOS and an Android emulator.  
+- Controlled lab setups and execution  
+- Tool usage (Phonesploit, SET) with evidence  
+- Step-by-step documentation of outcomes
 
 ---
 
-## 🛠 Tech
-- C++
-- Linux (ParrotOS, Kali, Ubuntu)
-- Wireshark, Nmap, Metasploit, SET
-- File systems, compression, basic cryptography
+### 📁 [google-cybersecurity-portfolio](https://github.com/Shaheem22/google-cybersecurity-portfolio)  
+**Google Cybersecurity Professional Certificate Portfolio**  
+Central repository for labs, artifacts, and summaries from the program.  
+- Cybersecurity fundamentals and risk concepts  
+- SIEM awareness and incident-handling playbooks  
+- Progress tracking and reflective notes
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- **C++ (Strong)** — CLI tools, file parsing, custom logic
+
+**Operating Systems**
+- **Linux (Strong)** — ParrotOS, Kali, Ubuntu
+
+**Networking & Analysis**
+- Wireshark, Nmap  
+- Packet inspection and service discovery fundamentals
+
+**Security Tools**
+- Metasploit 
+- Social Engineering Toolkit (SET)
+
+---
+
+## 🎯 Focus Areas
+
+- **SOC workflows:** alert triage, classification, escalation  
+- **Defensive security:** log-first analysis, signal vs noise  
+- **Incident response basics:** SIEM concepts and playbooks  
+- **Risk awareness:** threats, vulnerabilities, and controls
 
 ---
 
 ## 📌 Currently
-Currently working on security tooling, SOC-style lab environments, and AI-based threat detection while completing CEH labs, TryHackMe, and the Google Cybersecurity Professional Certificate.
 
-
+- Building SOC-style lab environments and security tooling  
+- Completing CEH labs and TryHackMe defensive paths  
+- Progressing through the Google Cybersecurity Professional Certificate

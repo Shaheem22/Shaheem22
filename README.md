@@ -8,6 +8,7 @@ Cybersecurity student focused on **defensive security, SOC workflows, alert tria
 
 ### 🔐 [password-manager-xor-cpp](https://github.com/Shaheem22/password-manager-xor-cpp)  
 **CLI Password Manager with XOR Encryption (C++)**  
+
 A command-line tool that stores and retrieves credentials from an encrypted vault using XOR.  
 - Menu-driven CLI for credential management  
 - Vault encryption/decryption with a user-provided key  
@@ -18,6 +19,7 @@ A command-line tool that stores and retrieves credentials from an encrypted vaul
 
 ### 📦 [file-huffman-xor-tool](https://github.com/Shaheem22/file-huffman-xor-tool)  
 **File Compression + XOR Encryption Tool (C++)**  
+
 Combines **Huffman coding** for compression with XOR-based encryption.  
 - Huffman tree construction and encoding/decoding  
 - Integrated encryption stage with user key  
@@ -27,6 +29,7 @@ Combines **Huffman coding** for compression with XOR-based encryption.
 
 ### 📱 [ceh-module17-mobile-labs](https://github.com/Shaheem22/ceh-module17-mobile-labs)  
 **CEH Module 17 — Mobile Hacking Labs**  
+
 Hands-on, documented labs using ParrotOS and an Android emulator.  
 - Controlled lab setups and execution  
 - Tool usage (Phonesploit, SET) with evidence  
@@ -35,11 +38,15 @@ Hands-on, documented labs using ParrotOS and an Android emulator.
 ---
 
 ### 📁 [google-cybersecurity-portfolio](https://github.com/Shaheem22/google-cybersecurity-portfolio)  
-**Google Cybersecurity Professional Certificate Portfolio**  
-Central repository for labs, artifacts, and summaries from the program.  
-- Cybersecurity fundamentals and risk concepts  
-- SIEM awareness and incident-handling playbooks  
-- Progress tracking and reflective notes
+**Google Cybersecurity Professional Certificate — Portfolio**
+
+Central repository for portfolio activities completed as part of the Google Cybersecurity Professional Certificate.
+This repository includes documented security artifacts focused on:
+- Cybersecurity fundamentals and risk management
+- Security audits and compliance analysis
+- Network security incident analysis and response
+- Defensive security concepts aligned with SOC and blue-team roles
+
 
 ---
 

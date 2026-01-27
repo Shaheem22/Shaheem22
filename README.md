@@ -53,19 +53,22 @@ This repository includes documented security artifacts focused on:
 
 ## 🧰 Tech Stack
 
-**Languages**
-- **C++ (Strong)** — CLI tools, file parsing, custom logic
+### Languages
+- **C++ (Strong)** — CLI tools, file parsing, encryption/compression logic, structured programs
+- **SQL** — filtering and analyzing security-relevant data for investigations
 
-**Operating Systems**
-- **Linux (Strong)** — ParrotOS, Kali, Ubuntu
+### Operating Systems
+- **Linux (Strong)** — ParrotOS, Kali, Ubuntu  
+- Command-line usage, permissions, basic system hardening
 
-**Networking & Analysis**
-- Wireshark, Nmap  
-- Packet inspection and service discovery fundamentals
+### Networking & Analysis
+- **Wireshark** — packet inspection and traffic analysis fundamentals  
+- **Nmap** — service discovery and network reconnaissance (defensive context)
 
-**Security Tools**
-- Metasploit 
-- Social Engineering Toolkit (SET)
+### Security Tools (Learning & Lab Use)
+- **Metasploit** — controlled lab usage for understanding exploitation mechanics  
+- **Social Engineering Toolkit (SET)** — academic labs to study attack workflows
+
 
 ---
 

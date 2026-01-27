@@ -46,6 +46,7 @@ This repository includes documented security artifacts focused on:
 - Security audits and compliance analysis
 - Network security incident analysis and response
 - Defensive security concepts aligned with SOC and blue-team roles
+- Practical security tooling using Linux and SQL
 
 
 ---

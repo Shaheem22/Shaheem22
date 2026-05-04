@@ -38,6 +38,16 @@ Wrote a custom CodeQL query to automatically detect SQL injection vulnerabilitie
 
 ---
 
+### 📅 [GreedyScheduler](https://github.com/Shaheem22/GreedyScheduler)
+**Constraint-Based Timetable Generator — DAA Coursework (Python)**
+
+Greedy algorithm that generates conflict-free timetables by prioritizing the hardest-to-schedule courses first.
+- Handles teacher conflicts, room double-booking, student group overlaps, and room capacity
+- Greedy approach with early pruning — no brute force, scales efficiently
+- Built as part of Design and Analysis of Algorithms coursework at GIKI
+
+---
+
 ### 🔐 [password-manager-xor-cpp](https://github.com/Shaheem22/password-manager-xor-cpp)
 **CLI Password Manager with XOR Encryption (C++)**
 
@@ -93,7 +103,7 @@ Security artifacts produced throughout the Google Cybersecurity Certificate.
 
 - Benchmarking post-quantum cryptography for IoT environments (WAMS project — complete)
 - Building an encrypted complaint management system with secure auth (SSD — near complete)
-- Designing a constraint-based timetable generator (DAA — near complete)
+- Built a constraint-based timetable generator using a greedy algorithm (DAA — complete)
 - Configuring a simulated secure network in Cisco Packet Tracer (CCN)
 - Writing CodeQL queries for static analysis and vulnerability detection (SSD Lab — complete)
 - Completing CEH labs and TryHackMe paths

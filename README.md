@@ -1,4 +1,4 @@
-# Muhammad Shaheem — Cybersecurity Student @ GIKI
+# Muhammad Shaheem - Cybersecurity Student @ GIKI
 
 Cybersecurity undergraduate building hands-on experience in **applied cryptography, secure software development, and network security**, with a focus on defensive security and blue-team work. I work on real projects - from benchmarking post-quantum algorithms to building encrypted systems - and document everything.
 
@@ -6,7 +6,7 @@ Cybersecurity undergraduate building hands-on experience in **applied cryptograp
 
 ## 🚀 Projects
 
-### 🍯 Senior Year Design Project — AI-Enhanced Honeypot (ADAHIM)
+### 🍯 Senior Year Design Project - AI-Enhanced Honeypot (ADAHIM)
 **CS481 Senior Year Design Project, GIKI (in progress)**
 
 An AI-enhanced honeypot system built as a team capstone for defensive security research.
@@ -14,7 +14,7 @@ An AI-enhanced honeypot system built as a team capstone for defensive security r
 ---
 
 ### 🕵️ [holmes-ctf-2026-writeups](https://github.com/Shaheem22/holmes-ctf-2026-writeups)
-**HTB Holmes CTF 2026: The Reichenbach Directive — Blue-Team / DFIR Writeups**
+**HTB Holmes CTF 2026: The Reichenbach Directive - Blue-Team / DFIR Writeups**
 
 Methodology writeups from Hack The Box's 5-day blue-team incident response CTF, played with teammate Abdullah Mahsud as team "Code Busters".
 - Six Sherlock-style scenarios documented: Silent Dividend, Bottle Out, Whisper Chain, Paper Ghost, Iron Feather, Borrowed Name
@@ -24,11 +24,11 @@ Methodology writeups from Hack The Box's 5-day blue-team incident response CTF, 
 ---
 
 ### 🔬 [kyber-ecc-performance-analysis](https://github.com/Shaheem22/kyber-ecc-performance-analysis)
-**Post-Quantum vs Classical Cryptography — IoT Performance Benchmarking (Python)**
+**Post-Quantum vs Classical Cryptography - IoT Performance Benchmarking (Python)**
 
 Empirical comparison of **Kyber (post-quantum KEM)** and **ECC (classical)** under simulated IoT network conditions using MQTT over TLS.
 - 30 trials per scenario across 7 packet loss levels (0–10%) and 3 jitter levels (0–50ms)
-- Kyber averaged ~330ms handshake vs ECC's ~590ms — faster and more stable under stress
+- Kyber averaged ~330ms handshake vs ECC's ~590ms - faster and more stable under stress
 - Both maintained 100% success rate across all tested conditions
 - Full statistical analysis: mean, std dev, P95, jitter sensitivity index, failure cliff detection
 - Extended into a written Kyber-512-TLS vs ECC-TLS comparison paper
@@ -36,7 +36,7 @@ Empirical comparison of **Kyber (post-quantum KEM)** and **ECC (classical)** und
 ---
 
 ### 🔐 [Encrypted-Campus-Complaint-System](https://github.com/Shaheem22/Encrypted-Campus-Complaint-System)
-**Encrypted Complaint Management System — CY321 Secure Software Design (Node.js)**
+**Encrypted Complaint Management System - CY321 Secure Software Design (Node.js)**
 
 Secure web-based complaint platform with strong authentication and role-based access control.
 - End-to-end encryption, input validation, and secure data handling
@@ -46,7 +46,7 @@ Secure web-based complaint platform with strong authentication and role-based ac
 ---
 
 ### 🔍 [codeql-security-lab](https://github.com/Shaheem22/codeql-security-lab)
-**Static Analysis & SQL Injection Detection using CodeQL — CY321 Secure Software Design (Python + CodeQL)**
+**Static Analysis & SQL Injection Detection using CodeQL - CY321 Secure Software Design (Python + CodeQL)**
 
 Wrote a custom CodeQL query to automatically detect SQL injection vulnerabilities in Python code using taint tracking.
 - Modelled user input → SQL sink data flow to flag unsanitized query construction
@@ -57,11 +57,11 @@ Wrote a custom CodeQL query to automatically detect SQL injection vulnerabilitie
 ---
 
 ### 📅 [GreedyScheduler](https://github.com/Shaheem22/GreedyScheduler)
-**Constraint-Based Timetable Generator — DAA Coursework (Python)**
+**Constraint-Based Timetable Generator - DAA Coursework (Python)**
 
 Greedy algorithm that generates conflict-free timetables by prioritizing the hardest-to-schedule courses first.
 - Handles teacher conflicts, room double-booking, student group overlaps, and room capacity
-- Greedy approach with early pruning — no brute force, scales efficiently
+- Greedy approach with early pruning - no brute force, scales efficiently
 - Built as part of Design and Analysis of Algorithms coursework at GIKI
 
 ---
@@ -88,7 +88,7 @@ Combines **Huffman coding** for lossless compression with XOR-based encryption i
 ---
 
 ### 📱 [ceh-module17-mobile-labs](https://github.com/Shaheem22/ceh-module17-mobile-labs)
-**CEH Module 17 — Mobile Security Labs (ParrotOS)**
+**CEH Module 17 - Mobile Security Labs (ParrotOS)**
 
 Hands-on controlled labs covering mobile attack vectors and security testing.
 - Android emulator + ParrotOS environment setup
@@ -98,7 +98,7 @@ Hands-on controlled labs covering mobile attack vectors and security testing.
 ---
 
 ### 📁 [google-cybersecurity-portfolio](https://github.com/Shaheem22/google-cybersecurity-portfolio)
-**Google Cybersecurity Professional Certificate — Portfolio**
+**Google Cybersecurity Professional Certificate - Portfolio**
 
 Security artifacts produced throughout the Google Cybersecurity Certificate.
 - Risk assessments and security audits
@@ -133,7 +133,7 @@ Security artifacts produced throughout the Google Cybersecurity Certificate.
 
 ## 🎓 Education
 
-**BS Cybersecurity** — Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) | 2023–2027  
+**BS Cybersecurity** - Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) | 2023–2027  
 Relevant coursework: Wireless & Mobile Security · Secure Software Design · Information Security · Computer Communications & Networks · Data Structures & Algorithms · Design & Analysis of Algorithms · Database Management Systems · Operating Systems · Cryptography
 
 ---

@@ -1,10 +1,27 @@
 # Muhammad Shaheem — Cybersecurity Student @ GIKI
 
-Cybersecurity undergraduate building hands-on experience in **applied cryptography, secure software development, and network security**. I work on real projects — from benchmarking post-quantum algorithms to building encrypted systems — and document everything.
+Cybersecurity undergraduate building hands-on experience in **applied cryptography, secure software development, and network security**, with a focus on defensive security and blue-team work. I work on real projects — from benchmarking post-quantum algorithms to building encrypted systems — and document everything.
 
 ---
 
 ## 🚀 Projects
+
+### 🍯 Senior Year Design Project — AI-Enhanced Honeypot (ADAHIM)
+**CS481 Senior Year Design Project, GIKI (in progress)**
+
+An AI-enhanced honeypot system built as a team capstone for defensive security research.
+
+---
+
+### 🕵️ [holmes-ctf-2026-writeups](https://github.com/Shaheem22/holmes-ctf-2026-writeups)
+**HTB Holmes CTF 2026: The Reichenbach Directive — Blue-Team / DFIR Writeups**
+
+Methodology writeups from Hack The Box's 5-day blue-team incident response CTF, played with teammate Abdullah Mahsud as team "Code Busters".
+- Six Sherlock-style scenarios documented: Silent Dividend, Bottle Out, Whisper Chain, Paper Ghost, Iron Feather, Borrowed Name
+- Covers artifact-driven investigation with tools like Volatility 3 and Eric Zimmerman's forensic suite
+- Flags are redacted; the writeups focus on approach and tooling
+
+---
 
 ### 🔬 [kyber-ecc-performance-analysis](https://github.com/Shaheem22/kyber-ecc-performance-analysis)
 **Post-Quantum vs Classical Cryptography — IoT Performance Benchmarking (Python)**
@@ -14,6 +31,7 @@ Empirical comparison of **Kyber (post-quantum KEM)** and **ECC (classical)** und
 - Kyber averaged ~330ms handshake vs ECC's ~590ms — faster and more stable under stress
 - Both maintained 100% success rate across all tested conditions
 - Full statistical analysis: mean, std dev, P95, jitter sensitivity index, failure cliff detection
+- Extended into a written Kyber-512-TLS vs ECC-TLS comparison paper
 
 ---
 
@@ -91,27 +109,35 @@ Security artifacts produced throughout the Google Cybersecurity Certificate.
 
 ## 🧰 Tech Stack
 
-**Languages:** Python · C++ · JavaScript (Node.js) · SQL · CodeQL  
-**Security:** Applied cryptography · Secure software development · Network security · Vulnerability assessment  
-**Tools:** Wireshark · Nmap · Metasploit (lab) · Cisco Packet Tracer · Social Engineering Toolkit  
+**Languages:** Python · C++ · JavaScript (Node.js) · SQL · CodeQL · LaTeX  
+**Security:** Applied cryptography · Secure software development · Network security · Vulnerability assessment · Honeypots  
+**Tools:** Wireshark · Volatility 3 · Eric Zimmerman's DFIR tools · Nmap · Metasploit (lab) · Cisco Packet Tracer · Social Engineering Toolkit  
 **OS:** Linux (ParrotOS, Kali, Ubuntu) · Windows  
-**Networking:** TCP/IP · MQTT/TLS · Packet analysis · Network simulation  
+**Networking:** TCP/IP · MQTT/TLS · Packet analysis · Network simulation · Hybrid cloud/on-premise design  
 
 ---
 
 ## 📌 Currently
 
-- Benchmarking post-quantum cryptography for IoT environments (WAMS project — complete)
-- Building an encrypted complaint management system with secure auth (SSD — near complete)
-- Built a constraint-based timetable generator using a greedy algorithm (DAA — complete)
-- Configuring a simulated secure network in Cisco Packet Tracer (CCN)
-- Writing CodeQL queries for static analysis and vulnerability detection (SSD Lab — complete)
+- Building an AI-enhanced honeypot system (ADAHIM) as my Senior Year Design Project
+- Co-writing an IEEE-format systematic review on the thermal robustness of quantum random number generators (QRNGs)
+- Writing up a Kyber-512-TLS vs ECC-TLS comparison paper
+- Designing a hybrid cloud/on-premise network (CE313 report)
+- Writing up blue-team DFIR challenges from HTB Holmes CTF 2026
 - Completing CEH labs and TryHackMe paths
 - Progressing through the Google Cybersecurity Professional Certificate
+
+**Recently completed:** post-quantum IoT benchmarking (WAMS) · encrypted complaint management system (SSD) · CodeQL SQL injection lab · greedy timetable generator (DAA)
 
 ---
 
 ## 🎓 Education
 
 **BS Cybersecurity** — Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) | 2023–2027  
-Relevant coursework: Wireless & Mobile Security · Secure Software Design · Information Security · Computer Communications & Networks · Data Structures & Algorithms · Design & Analysis of Algorithms · Database Management Systems · Operating Systems
+Relevant coursework: Wireless & Mobile Security · Secure Software Design · Information Security · Computer Communications & Networks · Data Structures & Algorithms · Design & Analysis of Algorithms · Database Management Systems · Operating Systems · Cryptography
+
+---
+
+## 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/muhammad-shaheem--) · [GitHub](https://github.com/Shaheem22)

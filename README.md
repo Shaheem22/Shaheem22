@@ -1,6 +1,6 @@
 # Muhammad Shaheem — Cybersecurity Student @ GIKI
 
-Cybersecurity undergraduate building hands-on experience in **applied cryptography, secure software development, and network security**, with a focus on defensive security and blue-team work. I work on real projects — from benchmarking post-quantum algorithms to building encrypted systems — and document everything.
+Cybersecurity undergraduate building hands-on experience in **applied cryptography, secure software development, and network security**, with a focus on defensive security and blue-team work. I work on real projects - from benchmarking post-quantum algorithms to building encrypted systems - and document everything.
 
 ---
 
